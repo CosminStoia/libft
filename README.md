@@ -1,5 +1,5 @@
-## libft
-
+# libft
+## Overview
 Welcome to libft, a custom C library implementation created as a part of the 42 programming curriculum. This library contains a collection of re-implemented standard C library functions, additional utility functions, and bonus functions to aid in future projects and assignments.
 
 ## About
